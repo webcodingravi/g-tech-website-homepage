@@ -585,3 +585,59 @@
         .component--holder .content .docsregulations .body .columns .item:last-child .row:not(:first-child) {
             padding-bottom: 2.500vw;
         }
+
+
+
+        /* parent */
+
+.sub-menu > li{
+    position:relative;
+}
+
+/* Horizontal Panel */
+
+.horizontal-submenu{
+    position:absolute;
+   
+     left:0;
+    right:0;
+    bottom:-120px;
+    display:flex;
+    gap:15px;
+    align-items:center;
+    min-width:1000px;
+    background:#fff;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 20px 60px rgba(0,0,0,.15);
+
+    opacity:0;
+    visibility:hidden;
+    transform:translateX(30px);
+
+    transition:.35s;
+    z-index:9999;
+}
+
+.sub-menu > li:hover .horizontal-submenu{
+    opacity:1;
+    visibility:visible;
+    transform:translateX(0);
+}
+
+.horizontal-submenu a{
+    min-width:150px;
+    text-align:center;
+    padding:18px;
+    border-radius:12px;
+    background:#f7f7f7;
+    color:#111;
+    text-decoration:none;
+    transition:.3s;
+    font-weight:500;
+}
+
+.horizontal-submenu a:hover{
+    background:#111;
+    color:#fff;
+}
