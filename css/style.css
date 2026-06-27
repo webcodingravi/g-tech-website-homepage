@@ -18204,8 +18204,8 @@
     font-family: Font Awesome\ 6 Brands;
     font-style: normal;
     font-weight: 400;
-    src: url(./fonts/fa-brands-400.woff2) format("woff2"), 
-    url(./fonts/fa-brands-400.ttf) format("truetype")
+    src: url(../fonts/fa-brands-400.woff2) format("woff2"), 
+    url(../fonts/fa-brands-400.ttf) format("truetype")
 }
 
 .fa-brands,
@@ -20306,7 +20306,8 @@
     font-family: Font Awesome\ 6 Pro;
     font-style: normal;
     font-weight: 300;
-    src: url(./fonts/fa-light-300.woff2) format("woff2"), url(./fonts/fa-light-300.ttf) format("truetype")
+    src: url(../fonts/fa-light-300.woff2) format("woff2"),
+     url(../fonts/fa-light-300.ttf) format("truetype")
 }
 
 .fa-light,
@@ -20324,7 +20325,8 @@
     font-family: Font Awesome\ 6 Pro;
     font-style: normal;
     font-weight: 400;
-    src: url(./fonts/fa-regular-400.woff2) format("woff2"), url(./fonts/fa-regular-400.ttf) format("truetype")
+    src: url(../fonts/fa-regular-400.woff2) format("woff2"), 
+    url(../fonts/fa-regular-400.ttf) format("truetype")
 }
 
 .fa-regular,
@@ -20342,7 +20344,7 @@
     font-family: Font Awesome\ 6 Pro;
     font-style: normal;
     font-weight: 900;
-    src: url(./fonts/fa-solid-900.woff2) format("woff2"), url(./fonts/fa-solid-900.ttf) format("truetype")
+    src: url(../fonts/fa-solid-900.woff2) format("woff2"), url(../fonts/fa-solid-900.ttf) format("truetype")
 }
 
 .fa-solid,
@@ -20361,7 +20363,7 @@
     font-family: Font Awesome\ 6 Pro;
     font-style: normal;
     font-weight: 100;
-    src: url(./fonts/fa-thin-100.woff2) format("woff2"), url(./fonts/fa-thin-100.ttf) format("truetype")
+    src: url(../fonts/fa-thin-100.woff2) format("woff2"), url(../fonts/fa-thin-100.ttf) format("truetype")
 }
 
 .fa-thin,
@@ -20373,60 +20375,60 @@
     font-display: swap;
     font-family: Font Awesome\ 5 Brands;
     font-weight: 400;
-    src: url(./fonts/fa-brands-400.woff2) format("woff2"), url(./fonts/fa-brands-400.ttf) format("truetype")
+    src: url(../fonts/fa-brands-400.woff2) format("woff2"), url(../fonts/fa-brands-400.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
     font-family: Font Awesome\ 5 Pro;
     font-weight: 900;
-    src: url(./fonts/fa-solid-900.woff2) format("woff2"), url(./fonts/fa-solid-900.ttf) format("truetype")
+    src: url(../fonts/fa-solid-900.woff2) format("woff2"), url(../fonts/fa-solid-900.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
     font-family: Font Awesome\ 5 Pro;
     font-weight: 400;
-    src: url(./fonts/fa-regular-400.woff2) format("woff2"), url(./fonts/fa-regular-400.ttf) format("truetype")
+    src: url(../fonts/fa-regular-400.woff2) format("woff2"), url(../fonts/fa-regular-400.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
     font-family: Font Awesome\ 5 Pro;
     font-weight: 300;
-    src: url(./fonts/fa-light-300.woff2) format("woff2"), url(./fonts/fa-light-300.ttf) format("truetype")
+    src: url(../fonts/fa-light-300.woff2) format("woff2"), url(../fonts/fa-light-300.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
     font-family: Font Awesome\ 5 Duotone;
     font-weight: 900;
-    src: url(./fonts/fa-duotone-900.woff2) format("woff2"), url(./fonts/fa-duotone-900.ttf) format("truetype")
+    src: url(../fonts/fa-duotone-900.woff2) format("woff2"), url(../fonts/fa-duotone-900.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
     font-family: FontAwesome;
-    src: url(./fonts/fa-solid-900.woff2) format("woff2"), url(./fonts/fa-solid-900.ttf) format("truetype")
+    src: url(../fonts/fa-solid-900.woff2) format("woff2"), url(../fonts/fa-solid-900.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
     font-family: FontAwesome;
-    src: url(./fonts/fa-brands-400.woff2) format("woff2"), url(./fonts/fa-brands-400.ttf) format("truetype")
+    src: url(../fonts/fa-brands-400.woff2) format("woff2"), url(../fonts/fa-brands-400.ttf) format("truetype")
 }
 
 @font-face {
     font-display: swap;
     font-family: FontAwesome;
-    src: url(./fonts/fa-regular-400.woff2) format("woff2"), url(./fonts/fa-regular-400.ttf) format("truetype");
+    src: url(../fonts/fa-regular-400.woff2) format("woff2"), url(../fonts/fa-regular-400.ttf) format("truetype");
     unicode-range: u+f003, u+f006, u+f014, u+f016-f017, u+f01a-f01b, u+f01d, u+f022, u+f03e, u+f044, u+f046, u+f05c-f05d, u+f06e, u+f070, u+f087-f088, u+f08a, u+f094, u+f096-f097, u+f09d, u+f0a0, u+f0a2, u+f0a4-f0a7, u+f0c5, u+f0c7, u+f0e5-f0e6, u+f0eb, u+f0f6-f0f8, u+f10c, u+f114-f115, u+f118-f11a, u+f11c-f11d, u+f133, u+f147, u+f14e, u+f150-f152, u+f185-f186, u+f18e, u+f190-f192, u+f196, u+f1c1-f1c9, u+f1d9, u+f1db, u+f1e3, u+f1ea, u+f1f7, u+f1f9, u+f20a, u+f247-f248, u+f24a, u+f24d, u+f255-f25b, u+f25d, u+f271-f274, u+f278, u+f27b, u+f28c, u+f28e, u+f29c, u+f2b5, u+f2b7, u+f2ba, u+f2bc, u+f2be, u+f2c0-f2c1, u+f2c3, u+f2d0, u+f2d2, u+f2d4, u+f2dc
 }
 
 @font-face {
     font-display: swap;
     font-family: FontAwesome;
-    src: url(./fonts/fa-v4compatibility.woff2) format("woff2"), url(./fonts/fa-v4compatibility.ttf) format("truetype");
+    src: url(../fonts/fa-v4compatibility.woff2) format("woff2"), url(../fonts/fa-v4compatibility.ttf) format("truetype");
     unicode-range: u+f041, u+f047, u+f065-f066, u+f07d-f07e, u+f080, u+f08b, u+f08e, u+f090, u+f09a, u+f0ac, u+f0ae, u+f0b2, u+f0d0, u+f0d6, u+f0e4, u+f0ec, u+f10a-f10b, u+f123, u+f13e, u+f148-f149, u+f14c, u+f156, u+f15e, u+f160-f161, u+f163, u+f175-f178, u+f195, u+f1f8, u+f219, u+f27a
 }
 
@@ -21455,9 +21457,9 @@
     src: url(../fonts/PPNeueMontreal-Regular.eot);
     src: url("../fonts/PPNeueMontreal-Regular.eot?#iefix") format("embedded-opentype"),
      url(../fonts/PPNeueMontreal-Regular.woff2) format("woff2"), 
-     url(../themes/tresmares/fonts/PPNeueMontreal-Regular.woff) format("woff"), 
-     url(../themes/tresmares/fonts/PPNeueMontreal-Regular.ttf) format("truetype"), 
-     url("../themes/tresmares/fonts/PPNeueMontreal-Regular.svg#PPNeueMontreal-Regular") format("svg")
+     url(../fonts/PPNeueMontreal-Regular.woff) format("woff"), 
+     url(../fonts/PPNeueMontreal-Regular.ttf) format("truetype"), 
+     url("../fonts/PPNeueMontreal-Regular.svg#PPNeueMontreal-Regular") format("svg")
 }
 
 @font-face {
@@ -22093,7 +22095,7 @@
 
 .form select,
 .wpcf7 select {
-    background: url(./images/dropdown-grey.svg) no-repeat transparent;
+    background: url(../images/dropdown-grey.svg) no-repeat transparent;
     background-position: 93%;
     background-size: .833vw;
     color: var(--grey)
@@ -22113,7 +22115,7 @@
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background: url(./images/date-grey.svg) no-repeat transparent;
+    background: url(../images/date-grey.svg) no-repeat transparent;
     background-position: 93%;
     background-size: 1.667vw;
     color: var(--grey)
@@ -24206,18 +24208,18 @@ body::-webkit-scrollbar {
 }
 
 .tag.--press span {
-    -webkit-mask-image: url(./images/press.svg);
-    mask-image: url(./img/press.svg)
+    -webkit-mask-image: url(../images/press.svg);
+    mask-image: url(../images/press.svg)
 }
 
 .tag.--podcast span {
-    -webkit-mask-image: url(./images/podcast.svg);
-    mask-image: url(./images/podcast.svg)
+    -webkit-mask-image: url(../images/podcast.svg);
+    mask-image: url(../images/podcast.svg)
 }
 
 .tag.--media span {
-    -webkit-mask-image: url(./img/media.svg);
-    mask-image: url(./images/media.svg)
+    -webkit-mask-image: url(../images/media.svg);
+    mask-image: url(../images/media.svg)
 }
 
 .tag.--white {
@@ -24340,8 +24342,8 @@ body::-webkit-scrollbar {
 
 .icon.--arrow-down span {
     height: .583vw;
-    -webkit-mask-image: url(./images/arrow-down.svg);
-    mask-image: url(./images/arrow-down.svg);
+    -webkit-mask-image: url(../images/arrow-down.svg);
+    mask-image: url(../images/arrow-down.svg);
     width: .583vw
 }
 
@@ -24353,19 +24355,19 @@ body::-webkit-scrollbar {
 }
 
 .icon.--arrow-right span {
-    -webkit-mask-image: url(./images/arrow-right.svg);
-    mask-image: url(./images/arrow-right.svg)
+    -webkit-mask-image: url(../images/arrow-right.svg);
+    mask-image: url(../images/arrow-right.svg)
 }
 
 .icon.--arrow-left span {
-    -webkit-mask-image: url(./images/arrow-left.svg);
-    mask-image: url(./images/arrow-left.svg)
+    -webkit-mask-image: url(../images/arrow-left.svg);
+    mask-image: url(../images/arrow-left.svg)
 }
 
 .icon.--download span {
     height: .667vw;
-    -webkit-mask-image: url(./images/arrow-download.svg);
-    mask-image: url(./images/arrow-download.svg);
+    -webkit-mask-image: url(../images/arrow-download.svg);
+    mask-image: url(../images/arrow-download.svg);
     width: .667vw
 }
 
@@ -24378,8 +24380,8 @@ body::-webkit-scrollbar {
 
 .icon.--closer span {
     height: .667vw;
-    -webkit-mask-image: url(./images/closer.svg);
-    mask-image: url(./images/closer.svg);
+    -webkit-mask-image: url(../images/closer.svg);
+    mask-image: url(../images/closer.svg);
     width: .667vw
 }
 
@@ -24392,8 +24394,8 @@ body::-webkit-scrollbar {
 
 .icon.--play span {
     height: 1.042vw;
-    -webkit-mask-image: url(./img/play.svg);
-    mask-image: url(./img/play.svg);
+    -webkit-mask-image: url(../images/play.svg);
+    mask-image: url(../images/play.svg);
     width: 1.042vw
 }
 
@@ -24406,8 +24408,8 @@ body::-webkit-scrollbar {
 
 .icon.--pause span {
     height: 1vw;
-    -webkit-mask-image: url(./img/pause.svg);
-    mask-image: url(./img/pause.svg);
+    -webkit-mask-image: url(../images/pause.svg);
+    mask-image: url(../images/pause.svg);
     width: 1vw
 }
 
@@ -24420,8 +24422,8 @@ body::-webkit-scrollbar {
 
 .icon.--soundon span {
     height: .75vw;
-    -webkit-mask-image: url(./img/soundon.svg);
-    mask-image: url(./img/soundon.svg);
+    -webkit-mask-image: url(../images/soundon.svg);
+    mask-image: url(../images/soundon.svg);
     width: .75vw
 }
 
@@ -24434,8 +24436,8 @@ body::-webkit-scrollbar {
 
 .icon.--soundoff span {
     height: .75vw;
-    -webkit-mask-image: url(./img/soundoff.svg);
-    mask-image: url(./img/soundoff.svg);
+    -webkit-mask-image: url(../images/soundoff.svg);
+    mask-image: url(../images/soundoff.svg);
     width: .75vw
 }
 
@@ -25014,7 +25016,7 @@ body::-webkit-scrollbar {
 }
 
 .filter .filter-item {
-    background: url(./img/arrow-filter.svg) no-repeat transparent;
+    background: url(../images/arrow-filter.svg) no-repeat transparent;
     background-position: 100%;
     background-size: .833vw;
     border: 0;
@@ -26135,7 +26137,7 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 }
 
 .header .menu-header>li.menu-item-has-children:after {
-    background: url(./imgages/dropdown.svg) 50% no-repeat;
+    background: url(../images/dropdown.svg) 50% no-repeat;
     background-size: contain;
     content: "";
     display: inline-block;
@@ -26269,23 +26271,23 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 }
 
 .header .menu-header>li.menu-item-has-children>.sub-menu li .submenu-item .flex .menu-icon.--private-equity span {
-    -webkit-mask-image: url(./images/private-equity.svg);
-    mask-image: url(./images/private-equity.svg)
+    -webkit-mask-image: url(../images/private-equity.svg);
+    mask-image: url(../images/private-equity.svg)
 }
 
 .header .menu-header>li.menu-item-has-children>.sub-menu li .submenu-item .flex .menu-icon.--direct-lending span {
-    -webkit-mask-image: url(./images/direct-lending.svg);
-    mask-image: url(./images/direct-lending.svg)
+    -webkit-mask-image: url(../images/direct-lending.svg);
+    mask-image: url(../images/direct-lending.svg)
 }
 
 .header .menu-header>li.menu-item-has-children>.sub-menu li .submenu-item .flex .menu-icon.--fund-of-funds span {
-    -webkit-mask-image: url(./images/fund-of-funds.svg);
-    mask-image: url(./images/fund-of-funds.svg)
+    -webkit-mask-image: url(../images/fund-of-funds.svg);
+    mask-image: url(../images/fund-of-funds.svg)
 }
 
 .header .menu-header>li.menu-item-has-children>.sub-menu li .submenu-item .flex .menu-icon.--fund-financing span {
-    -webkit-mask-image: url(./images/fund-financing.svg);
-    mask-image: url(./images/fund-financing.svg)
+    -webkit-mask-image: url(../images/fund-financing.svg);
+    mask-image: url(../images/fund-financing.svg)
 }
 
 .header .menu-header>li.menu-item-has-children>.sub-menu li .submenu-item .flex .title {
@@ -26460,7 +26462,7 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
     }
 
     .header .navigation .content .menu li.menu-item-has-children>a:after {
-        background: url(./images/dropdown.svg) 50% no-repeat;
+        background: url(../images/dropdown.svg) 50% no-repeat;
         background-size: contain;
         content: "";
         display: inline-block;
@@ -26780,23 +26782,23 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 }
 
 .menu-sidebar .inner .menu li a .flex .menu-icon.--private-equity span {
-    -webkit-mask-image: url(./images/private-equity.svg);
-    mask-image: url(./images/private-equity.svg)
+    -webkit-mask-image: url(../images/private-equity.svg);
+    mask-image: url(../images/private-equity.svg)
 }
 
 .menu-sidebar .inner .menu li a .flex .menu-icon.--direct-lending span {
-    -webkit-mask-image: url(./images/direct-lending.svg);
-    mask-image: url(./images/direct-lending.svg)
+    -webkit-mask-image: url(../images/direct-lending.svg);
+    mask-image: url(../images/direct-lending.svg)
 }
 
 .menu-sidebar .inner .menu li a .flex .menu-icon.--fund-of-funds span {
-    -webkit-mask-image: url(./img/fund-of-funds.svg);
-    mask-image: url(./images/fund-of-funds.svg)
+    -webkit-mask-image: url(../images/fund-of-funds.svg);
+    mask-image: url(../images/fund-of-funds.svg)
 }
 
 .menu-sidebar .inner .menu li a .flex .menu-icon.--fund-financing span {
-    -webkit-mask-image: url(./images/fund-financing.svg);
-    mask-image: url(./images/fund-financing.svg)
+    -webkit-mask-image: url(../images/fund-financing.svg);
+    mask-image: url(../images/fund-financing.svg)
 }
 
 .menu-sidebar .inner .menu li a .flex .title {
@@ -26832,7 +26834,7 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 }
 
 .menu-sidebar .closer {
-    background-image: url(./images/dropdown-white.svg);
+    background-image: url(../images/dropdown-white.svg);
     background-position: 50%;
     background-repeat: no-repeat;
     height: min(3.333vw, 13.23px);
@@ -28298,8 +28300,8 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 }
 
 .component--dropdowns .dropdowns .dropdown .head .icon span {
-    -webkit-mask-image: url(./images/arrow-down.svg);
-    mask-image: url(./images/arrow-down.svg);
+    -webkit-mask-image: url(../images/arrow-down.svg);
+    mask-image: url(../images/arrow-down.svg);
     transition: all .4s ease
 }
 
@@ -28527,8 +28529,8 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 }
 
 .component--dropdownssticky .dropdowns .dropdown .head .icon span {
-    -webkit-mask-image: url(./images/arrow-down.svg);
-    mask-image: url(./images/arrow-down.svg);
+    -webkit-mask-image: url(../images/arrow-down.svg);
+    mask-image: url(../images/arrow-down.svg);
     transition: all .4s ease
 }
 
@@ -29344,8 +29346,8 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 
 .component--herocontact .columns .item:last-child .image {
     height: 39.583vw;
-    -webkit-mask-image: url(./images/contact-mask-desktop.svg);
-    mask-image: url(./images/contact-mask-desktop.svg);
+    -webkit-mask-image: url(../images/contact-mask-desktop.svg);
+    mask-image: url(../images/contact-mask-desktop.svg);
     -webkit-mask-position: bottom;
     mask-position: bottom;
     -webkit-mask-repeat: no-repeat;
@@ -29360,8 +29362,8 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
         height: min(95vw, 377.055px);
         margin-left: auto;
         margin-right: 0;
-        -webkit-mask-image: url(./images/contact-mask.svg);
-        mask-image: url(./images/contact-mask.svg);
+        -webkit-mask-image: url(../images/contact-mask.svg);
+        mask-image: url(../images/contact-mask.svg);
         width: calc(100% - min(5vw, 19.845px))
     }
 }
@@ -30203,7 +30205,7 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
     }
 
     .component--holder .content .sidebar .selector-trigger:after {
-        background: url(./images/arrow-down.svg) 50% no-repeat;
+        background: url(../images/arrow-down.svg) 50% no-repeat;
         background-size: contain;
         content: "";
         display: block;
@@ -32751,7 +32753,7 @@ body .cky-preference-content-wrapper .cky-show-desc-btn {
 
 @media (max-width:1100px) {
     .component--tablefourcols {
-        background: url(./images/table-waves-mobile.svg) no-repeat transparent;
+        background: url(../images/table-waves-mobile.svg) no-repeat transparent;
         background-color: #f2f2f2;
         background-color: var(--lighter);
         background-position: 100% 0;
